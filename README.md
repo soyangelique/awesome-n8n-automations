@@ -23,6 +23,15 @@ Marketing and social media
 DevOps and system automation
 
 Whether you're just starting with n8n or you're an experienced automation builder, this repository helps you save time and accelerate development.
+## 📑 Table of Contents
+- [Overview](#overview)
+- [Categories](#categories)
+- [Gmail & Email Automation](#gmail--email-automation)
+- [Telegram](#telegram)
+- [AI, LLMs & RAG](#ai-llms--rag)
+- [Disclaimer](#disclaimer)
+- [Contributing](#contributing)
+
 
 📂 Categories
 
